@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Kertas Gunting Batu</string>
+    <string name="continue_string">Continue</string>
+    <string name="player_versus_player">Bermain suit melawan sesama Pemain</string>
+    <string name="player_versus_computer">Bermain suit melawan sesama Komputer</string>
+    <string name="select_mode_game">PILIH LAWANMU</string>
+    <string name="fullNamePlayer">Tuliskan namamu di bawah</string>
+    <string name="human">Pemain</string>
+    <string name="player">Vs Player</string>
+    <string name="computer">Vs CPU</string>
+    <string name="welcome_to_messenger">Selamat Datang</string>
+    <string name="result_game_title">Hasil Permainan</string>
+    <string name="result_game_won">MENANG!</string>
+    <string name="result_game_draw">SERI!</string>
+    <string name="continue_game">Main Lagi</string>
+    <string name="back_to_menus">Kembali Ke Menu</string>
+    <string name="logo_font">Logo</string>
+    <string name="rock_icon">rock_icon</string>
+    <string name="close">close</string>
+    <string name="refresh_icon">refresh_icon</string>
+    <string name="scissors_icon">gunting_icon</string>
+    <string name="paper_icon">paper_icon</string>
+    <string name="versus_image">versus_image</string>
+    <string name="Player2">"Player 2"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

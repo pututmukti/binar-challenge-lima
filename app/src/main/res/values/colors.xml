@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7F70E4</color>
+    <color name="colorPrimaryDark">#7F70E4</color>
+    <color name="colorAccent">#7F70E4</color>
+    <color name="white_blue">#DDEAF6</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="violet">#C27BA0</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="blue">#0070C0</color>
+    <color name="light_blue">#00B0F0</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="pale_green">#93C47D</color>
+    <color name="light_green">#92D050</color>
+    <color name="card_blue">#C3DAE9</color>
+    <color name="orange">#F6B26B</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="subTextColor">#7e7e7e</color>
+    <color name="mainBgColor">#ffffff</color>
+    <color name="hairLineColor">#d6d6d6</color>
+    <color name="mainTextColor">#000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <color name="blue_view_page">#C3DAE9</color>
+    <color name="blue_dot_color">#1670B9</color>
+</resources>
